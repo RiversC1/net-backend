@@ -5,8 +5,6 @@ E:\belatrix\repositories\net-backend\Belatrix.WebApi\bin\Debug\netcoreapp2.1\Bel
 E:\belatrix\repositories\net-backend\Belatrix.WebApi\bin\Debug\netcoreapp2.1\Belatrix.WebApi.pdb
 E:\belatrix\repositories\net-backend\Belatrix.WebApi\bin\Debug\netcoreapp2.1\Belatrix.Models.dll
 E:\belatrix\repositories\net-backend\Belatrix.WebApi\bin\Debug\netcoreapp2.1\Belatrix.Repository.dll
-E:\belatrix\repositories\net-backend\Belatrix.WebApi\bin\Debug\netcoreapp2.1\Belatrix.Repository.SqlServer.dll
-E:\belatrix\repositories\net-backend\Belatrix.WebApi\bin\Debug\netcoreapp2.1\Belatrix.Repository.SqlServer.pdb
 E:\belatrix\repositories\net-backend\Belatrix.WebApi\bin\Debug\netcoreapp2.1\Belatrix.Models.pdb
 E:\belatrix\repositories\net-backend\Belatrix.WebApi\bin\Debug\netcoreapp2.1\Belatrix.Repository.pdb
 E:\belatrix\repositories\net-backend\Belatrix.WebApi\obj\Debug\netcoreapp2.1\Belatrix.WebApi.csprojAssemblyReference.cache
@@ -19,3 +17,5 @@ E:\belatrix\repositories\net-backend\Belatrix.WebApi\obj\Debug\netcoreapp2.1\Bel
 E:\belatrix\repositories\net-backend\Belatrix.WebApi\obj\Debug\netcoreapp2.1\Belatrix.WebApi.csproj.CopyComplete
 E:\belatrix\repositories\net-backend\Belatrix.WebApi\obj\Debug\netcoreapp2.1\Belatrix.WebApi.dll
 E:\belatrix\repositories\net-backend\Belatrix.WebApi\obj\Debug\netcoreapp2.1\Belatrix.WebApi.pdb
+E:\belatrix\repositories\net-backend\Belatrix.WebApi\bin\Debug\netcoreapp2.1\Belatrix.Repository.MySql.dll
+E:\belatrix\repositories\net-backend\Belatrix.WebApi\bin\Debug\netcoreapp2.1\Belatrix.Repository.MySql.pdb

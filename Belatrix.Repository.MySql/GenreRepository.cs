@@ -1,7 +1,7 @@
 ﻿using Belatrix.Models;
 using System.Linq;
 
-namespace Belatrix.Repository.SqlServer
+namespace Belatrix.Repository.Mysql
 {
     public class GenreRepository : Repository<Genre>, IGenreRepository
     {
@@ -9,9 +9,9 @@ namespace Belatrix.Repository.SqlServer
         {
         }
 
-        public Genre GetById(int id)
+        /*public Genre GetById(int id)
         {
             return _dbContext.Genre.FirstOrDefault(x => x.GenreId == id);
-        }
+        }*/
     }
 }

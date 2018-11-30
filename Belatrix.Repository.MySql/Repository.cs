@@ -1,9 +1,10 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 
-namespace Belatrix.Repository.SqlServer
+namespace Belatrix.Repository.Mysql
 {
     public class Repository<T> : IRepository<T> where T : class
     {
@@ -24,6 +25,11 @@ namespace Belatrix.Repository.SqlServer
         {
             _dbContext.Remove(entity);
             return _dbContext.SaveChanges()>0;
+        }
+
+        public T GetById(int id)
+        {
+            return _dbContext.Find<T>(id);
         }
 
         public IEnumerable<T> GetList()

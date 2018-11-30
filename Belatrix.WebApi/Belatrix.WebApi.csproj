@@ -16,10 +16,11 @@
       <IncludeAssets>runtime; build; native; contentfiles; analyzers</IncludeAssets>
     </PackageReference>
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.1.1" />
+    <PackageReference Include="MySql.Data.EntityFrameworkCore" Version="8.0.13" />
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Belatrix.Repository.SqlServer\Belatrix.Repository.SqlServer.csproj" />
+    <ProjectReference Include="..\Belatrix.Repository.MySql\Belatrix.Repository.MySql.csproj" />
   </ItemGroup>
 
 </Project>

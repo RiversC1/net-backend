@@ -4,6 +4,6 @@ namespace Belatrix.Repository
 {
     public interface IGenreRepository: IRepository<Genre>
     {
-        Genre GetById(int id);
+        // Genre GetById(int id);
     }
 }

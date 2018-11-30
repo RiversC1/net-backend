@@ -1,7 +1,7 @@
 ﻿using Belatrix.Models;
 using System.Linq;
 
-namespace Belatrix.Repository.SqlServer
+namespace Belatrix.Repository.Mysql
 {
     public class ArtistRepository : Repository<Artist>, IArtistRepository
     {
@@ -9,9 +9,9 @@ namespace Belatrix.Repository.SqlServer
         {
         }
 
-        public Artist GetById(int id)
+      /*  public Artist GetById(int id)
         {
             return _dbContext.Artist.FirstOrDefault(x => x.ArtistId == id);
-        }
+        }*/
     }
 }
