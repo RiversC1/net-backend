@@ -8,5 +8,8 @@ namespace Belatrix.Repository
         IRepository<Artist> Artists { get; }
 
         IRepository<Genre> Genres { get; }
+
+        IRepository<Playlist> Playlists { get; }
+
     }
 }

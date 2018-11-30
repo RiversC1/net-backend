@@ -9,46 +9,46 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Belatrix.WebApi.Controllers
 {
-    [Route("api/artists")]
+    [Route("api/playlist")]
     [ApiController]
-    public class ArtistController : ControllerBase
+    public class PlaylistController : ControllerBase
     {
         private readonly IUnitOfWork _unit;
 
-        public ArtistController(IUnitOfWork unit)
+        public PlaylistController(IUnitOfWork unit)
         {
             _unit = unit;
         }
 
         [HttpGet]
-        [Route("{id:int}")]
+        [Route("{id:int]")]
         public IActionResult Get(int id)
         {
-            return Ok(_unit.Artists.GetById(id));
+            return Ok(_unit.Playlists.GetById(id));
         }
 
         [HttpGet]
         public IActionResult GetAll()
         {
-            return Ok(_unit.Artists.GetList());
+            return Ok(_unit.Playlists.GetList());
         }
 
         [HttpPost]
-        public int Add(Artist artists)
+        public int Add(Playlist playlist)
         {
-            return _unit.Artists.Add(artists);
+            return _unit.Playlists.Add(playlist);
         }
 
         [HttpPut]
-        public bool Update(Artist artist)
+        public bool Update(Playlist playlist)
         {
-            return _unit.Artists.Update(artist);
+            return _unit.Playlists.Update(playlist);
         }
 
         [HttpDelete]
-        public bool Delete(Artist artist)
+        public bool Delete(Playlist playlist)
         {
-            return _unit.Artists.Delete(artist);
+            return _unit.Playlists.Delete(playlist);
         }
     }
 }

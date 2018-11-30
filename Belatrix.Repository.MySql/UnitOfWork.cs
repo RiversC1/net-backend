@@ -8,6 +8,7 @@ namespace Belatrix.Repository.Mysql
         {
             Genres = new GenreRepository(dbContext);
             Artists = new ArtistRepository(dbContext);
+            Playlists = new MySql.PlaylistRepository(dbContext);
         }
        // public IGenreRepository Genres { get; }
 
@@ -17,5 +18,6 @@ namespace Belatrix.Repository.Mysql
 
        public IRepository<Genre> Genres { get; }
 
+       public IRepository<Playlist> Playlists { get; }
     }
 }
