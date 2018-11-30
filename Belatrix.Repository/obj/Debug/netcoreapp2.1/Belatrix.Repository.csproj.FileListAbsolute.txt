@@ -1,0 +1,12 @@
+E:\belatrix\repositories\net-backend\Belatrix.Repository\bin\Debug\netcoreapp2.1\Belatrix.Repository.deps.json
+E:\belatrix\repositories\net-backend\Belatrix.Repository\bin\Debug\netcoreapp2.1\Belatrix.Repository.dll
+E:\belatrix\repositories\net-backend\Belatrix.Repository\bin\Debug\netcoreapp2.1\Belatrix.Repository.pdb
+E:\belatrix\repositories\net-backend\Belatrix.Repository\bin\Debug\netcoreapp2.1\Belatrix.Models.dll
+E:\belatrix\repositories\net-backend\Belatrix.Repository\bin\Debug\netcoreapp2.1\Belatrix.Models.pdb
+E:\belatrix\repositories\net-backend\Belatrix.Repository\obj\Debug\netcoreapp2.1\Belatrix.Repository.csprojAssemblyReference.cache
+E:\belatrix\repositories\net-backend\Belatrix.Repository\obj\Debug\netcoreapp2.1\Belatrix.Repository.csproj.CoreCompileInputs.cache
+E:\belatrix\repositories\net-backend\Belatrix.Repository\obj\Debug\netcoreapp2.1\Belatrix.Repository.AssemblyInfoInputs.cache
+E:\belatrix\repositories\net-backend\Belatrix.Repository\obj\Debug\netcoreapp2.1\Belatrix.Repository.AssemblyInfo.cs
+E:\belatrix\repositories\net-backend\Belatrix.Repository\obj\Debug\netcoreapp2.1\Belatrix.Repository.csproj.CopyComplete
+E:\belatrix\repositories\net-backend\Belatrix.Repository\obj\Debug\netcoreapp2.1\Belatrix.Repository.dll
+E:\belatrix\repositories\net-backend\Belatrix.Repository\obj\Debug\netcoreapp2.1\Belatrix.Repository.pdb

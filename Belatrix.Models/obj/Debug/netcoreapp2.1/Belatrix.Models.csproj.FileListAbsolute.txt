@@ -1,0 +1,9 @@
+E:\belatrix\repositories\net-backend\Belatrix.Models\bin\Debug\netcoreapp2.1\Belatrix.Models.deps.json
+E:\belatrix\repositories\net-backend\Belatrix.Models\bin\Debug\netcoreapp2.1\Belatrix.Models.dll
+E:\belatrix\repositories\net-backend\Belatrix.Models\bin\Debug\netcoreapp2.1\Belatrix.Models.pdb
+E:\belatrix\repositories\net-backend\Belatrix.Models\obj\Debug\netcoreapp2.1\Belatrix.Models.csprojAssemblyReference.cache
+E:\belatrix\repositories\net-backend\Belatrix.Models\obj\Debug\netcoreapp2.1\Belatrix.Models.csproj.CoreCompileInputs.cache
+E:\belatrix\repositories\net-backend\Belatrix.Models\obj\Debug\netcoreapp2.1\Belatrix.Models.AssemblyInfoInputs.cache
+E:\belatrix\repositories\net-backend\Belatrix.Models\obj\Debug\netcoreapp2.1\Belatrix.Models.AssemblyInfo.cs
+E:\belatrix\repositories\net-backend\Belatrix.Models\obj\Debug\netcoreapp2.1\Belatrix.Models.dll
+E:\belatrix\repositories\net-backend\Belatrix.Models\obj\Debug\netcoreapp2.1\Belatrix.Models.pdb
